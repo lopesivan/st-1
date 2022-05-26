@@ -12,7 +12,7 @@ GetOptions(
   'rename|script-name=s'
 );
 
-my $DEFAULT_SCRIPT_NAME = "st";
+my $DEFAULT_SCRIPT_NAME = "st.pl";
 
 my $script_name = $DEFAULT_SCRIPT_NAME;
 
